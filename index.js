@@ -10,12 +10,12 @@
 ░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝  ░░░░░░  ╚═╝░░░░░╚═╝╚═════╝░
 
 
-* Project name - VAJIRA- MD 
-* Author - Vajira Rathnayaka
+* Project name - TARIQ-MEHMOOD
+* Author - KING JUTT
 * Team - Technical Cybers 
 * Version - V6
 
-World best and powerfull whatsapp user bot in Sri lanka*/
+World best and powerfull whatsapp user bot in PAKISTAN*/
 
 
 
